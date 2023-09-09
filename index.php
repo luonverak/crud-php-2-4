@@ -68,6 +68,9 @@
 </body>
 <script>
     $(document).ready(function(){
+        $("#fullname").val("");
+        $("#gender").val("");
+        $("#score").val("");
         $('#openAdd').click(function(){
             $('#btnSave').show();
             $('#btnUpdate').hide();
