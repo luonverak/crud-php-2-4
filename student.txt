@@ -1,0 +1,6 @@
+Student
+
+pk-id
+name (char 40)
+gender (char 10)
+score (float)
